@@ -1,0 +1,3 @@
+A python reminder Program:
+To reduce eyestrain and computer fatigue this program is made you just need to run it in background from 9:00 AM to 
+which remind the user every 30 min to do some eye exercise and every 45 min to do a physical excercise(like walk a little standup from the chair move around etc) and eyery 1 hour to drink water it suppose you drink 1/2 ltr water at this time, Hence when counter reach 3 and 1/2 ltr water it stop reminding of water and record your progress of this 3 activities in seprate files with the time and date in a file which you can later see to check your progress.
